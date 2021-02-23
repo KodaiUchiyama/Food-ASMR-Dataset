@@ -9,8 +9,6 @@ CSV files below has the columns which have video_id, video_link from the YouTube
 
 [All data](https://github.com/KodaiUchiyama/Food-ASMR-Dataset/blob/master/foodASMRDataset.csv) [3588 samples]
 
-# Food ASMR DATASET
-[FAIR USE DISCLAIMER]
 Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. 
 Fair use is a use permitted by copyright statute that might otherwise be infringing.
 
