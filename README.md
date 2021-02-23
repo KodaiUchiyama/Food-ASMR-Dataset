@@ -1,6 +1,7 @@
 # Audio-Visual Model for Generating Eating Sounds using Food ASMR Videos
 Food ASMR動画を用いたマルチモーダル深層学習による 食感音の生成
-[![](https://img.youtube.com/vi/MngxUlEOhxM/0.jpg)](https://www.youtube.com/watch?v=MngxUlEOhxM)
+[![](images/moreExamples.png)](https://www.youtube.com/watch?v=MngxUlEOhxM)
+
 An example([CC]Creative Commons license) of food ASMR DATASET
 Source: https://www.youtube.com/watch?v=MngxUlEOhxM
 
